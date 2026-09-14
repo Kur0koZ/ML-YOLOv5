@@ -1,1 +1,5 @@
-# YOLOv5
+# Require CMD
+
+pip install opencv-python
+
+
